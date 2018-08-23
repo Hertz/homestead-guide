@@ -4,7 +4,7 @@
 go-ethereum
 ################################################################################
 
-The go-ethereum client is commonly referred to as **geth**, which is the the command line interface for running a full ethereum node implemented in Go. By installing and running geth, you can take part in the ethereum frontier live network and:
+The go-ethereum client is commonly referred to as **geth**, which is the the command line interface for running a full ethereum node implemented in Go. By installing and running geth, you can take part in the ethereum homestead live network and:
 
 * mine real ether
 * transfer funds between addresses
